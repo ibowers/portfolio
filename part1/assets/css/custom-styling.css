@@ -1,0 +1,27 @@
+.navbar-text {
+	margin-top:25px;
+}
+
+.profile-image {
+	width:200px;
+	height:auto;
+	float:left;
+	margin-right:20px;
+}
+
+.top-blank-space {
+	margin:120px;
+}
+
+.bottom-blank-space {
+	margin:50px;
+}
+
+.txtarea-space {
+	margin-top:10px;
+	margin-bottom:15px;
+}
+
+.proj-img {
+	margin:15px;
+}
